@@ -5,6 +5,8 @@ This is the winning solution of the Microsoft Research [First TextWorld Problems
 A detailed article with the challenge and solution was published in this
 [Microsoft blog post](https://www.microsoft.com/en-us/research/blog/first-textworld-problems-the-competition-using-text-based-games-to-advance-capabilities-of-ai-agents/).
 
+A [second blog post](https://medium.com/@pvl/first-textworld-challenge-first-place-solution-notes-d081bb9dee11) with more details on the agent design and implementation.
+
 TextWorld is text games simulator environment for NLP research that in my opinion makes research extremely fun.
 
 ## Installation
