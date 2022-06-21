@@ -1,6 +1,6 @@
 gym==0.10.4
 tqdm==4.32.2
-numpy==1.16.0
+numpy==1.22.0
 docker==3.7.0
 textworld==1.0.1
 pandas==0.23.4
